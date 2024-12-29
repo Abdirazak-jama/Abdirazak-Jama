@@ -14,20 +14,19 @@ I enjoy tackling complex problems and finding creative solutions using a variety
 
 ## Notable Projects
 
-### Performance Logger
+### Movie Names Genarater
 A web application that tracks and logs a collection of datapoints.
-- [GitHub](link-to-github)
-- [Demo](link-to-demo)
-- [Live Website](link-to-live-website)
+- [GitHub](https://github.com/manaia-roa-2024/lasagna-redemption)
+- [Live Website](http://localhost:5173/)
 
 ### Games Center
 A website where users can play games like Tic Tac Toe, Connect 4, and Checkers.
-- [GitHub](link-to-github)
-- [Live Website](link-to-live-website)
+- [GitHub](https://github.com/Abdirazak-jama/tic-tac-toe)
+- [Live Website](file:///Users/nimo/devacademy/tic-tac-toe/index.html)
 
 ## Education
 New Zealand Certificate (Level 6) in Applied Software Development from Dev Academy Aotearoa, 2024.
 
 ## Contact & Links
-- [Portfolio](your-portfolio-link)
-- [LinkedIn](your-linkedin-link)
+- [Portfolio](https://github.com/Abdirazak-jama/Abdirazak-Jama)
+- [LinkedIn](https://www.linkedin.com/in/abdirazak-jama-ba0a6a328/)
